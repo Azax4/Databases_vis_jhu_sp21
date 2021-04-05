@@ -1,5 +1,5 @@
 # Databases_vis_jhu_sp21
-Visualization example for dataabases 
+Visualization example for databases 
 Run datapoints.sql  
 change username, password, database in chart.php  
 change SQL query in line 9 of chart.php  
