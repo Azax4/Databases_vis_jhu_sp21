@@ -1,7 +1,7 @@
 <?php
 $dataPoints = array();
 
-$con=mysqli_connect("dbase.cs.jhu.edu","20sp_akejriw2","KXEzYu9ONz","20sp_akejriw2_db"); //mysqli_connect("host","username","password","db"); - Refer https://www.w3schools.com/php/func_mysqli_connect.asp for more info
+$con=mysqli_connect("dbase.cs.jhu.edu","20sp_akejriw2","******","20sp_akejriw2_db"); //mysqli_connect("host","username","password","db"); - Refer https://www.w3schools.com/php/func_mysqli_connect.asp for more info
 
 if (mysqli_connect_errno()) {
 	echo "Failed to connect to MySQL: " . mysqli_connect_error();
